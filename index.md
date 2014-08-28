@@ -1,5 +1,5 @@
 ---
-layout: the-program
+layout: page
 title: Somethingnew
 tagline: Supporting tagline
 ---
